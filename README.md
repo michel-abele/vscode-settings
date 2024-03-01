@@ -1,5 +1,6 @@
-# VS Code settings
+![GitHub last commit](https://img.shields.io/github/last-commit/michel-abele/vscode-settings?style=for-the-badge)
 
+# VS Code settings
 Private VS Code settings
 
 ## Live Sass Compiler
