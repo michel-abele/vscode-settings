@@ -1,0 +1,16 @@
+{
+    "liveSassCompile.settings.watchOnLaunch": true,
+    "liveSassCompile.settings.rootIsWorkspace": true,
+    "liveSassCompile.settings.partialsList": [ "/.scss/**/_*.scss" ],
+    "liveSassCompile.settings.formats":
+    [
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "/public/lib/css"
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.showOutputWindowOn": "None",
+    "liveSassCompile.settings.showAnnouncements": false
+}
