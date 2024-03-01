@@ -1,0 +1,88 @@
+{
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+
+    "todohighlight.defaultStyle":
+    {
+        "color": "black"
+    },
+
+    "todohighlight.keywords":
+    [
+        {
+            "text": "Caution:",
+            "color": "red",
+            "backgroundColor": "mistyrose",
+            "isWholeLine": true
+        },
+        {
+            "text": "Error:",
+            "color": "red",
+            "backgroundColor": "mistyrose",
+            "isWholeLine": true
+        },
+        {
+            "text": "Information:",
+            "color": "tomato",
+            "backgroundColor": "lemonchiffon",
+            "isWholeLine": true
+        },
+        {
+            "text": "Note:",
+            "color": "tomato",
+            "backgroundColor": "lemonchiffon",
+            "isWholeLine": true
+        },
+        {
+            "text": "Comment:",
+            "color": "darkblue",
+            "backgroundColor": "paleturquoise",
+            "isWholeLine": true
+        },
+        {
+            "text": "Done:",
+            "color": "darkgreen",
+            "backgroundColor": "palegreen",
+            "isWholeLine": true
+        },
+        {
+            "text": "Finished:",
+            "color": "darkgreen",
+            "backgroundColor": "palegreen",
+            "isWholeLine": true
+        }
+    ],
+
+    "todohighlight.include":
+    [
+        "**/*.bat",
+        "**/*.c",
+        "**/*.cmd",
+        "**/*.cpp",
+        "**/*.cs",
+        "**/*.css",
+        "**/.gitignore",
+        "**/*.js",
+        "**/*.h",
+        "**/.htaccess",
+        "**/*.html",
+        "**/*.htm",
+        "**/*.java",
+        "**/*.kt",
+        "**/*.php",
+        "**/*.ps1",
+        "**/*.py",
+        "**/*.scss",
+        "**/*.sh",
+        "**/*.ts"
+    ],
+
+    "todohighlight.exclude":
+    [
+        "**/.vscode/**",
+        "**/*.md"
+    ],
+
+    "todohighlight.maxFilesForSearch": 5120,
+    "todohighlight.toggleURI": false
+}

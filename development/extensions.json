@@ -18,6 +18,7 @@
         "foxundermoon.shell-format",
         "timonwong.shellcheck",
         "vscode-icons-team.vscode-icons",
-        "glenn2223.live-sass"
+        "glenn2223.live-sass",
+        "wayou.vscode-todo-highlight"
     ]
 }
