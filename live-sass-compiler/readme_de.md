@@ -1,4 +1,4 @@
-[Startseite](https://github.com/michel-abele/vscode-settings)
+[<< Startseite](https://github.com/michel-abele/vscode-settings)
 
 # Einstellungen für den Live Sass Compiler
 
