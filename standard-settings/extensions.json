@@ -2,10 +2,12 @@
     "recommendations": [
         "mrmlnc.vscode-apache",
         "eiminsasete.apacheconf-snippets",
+        "hossaini.bootstrap-intellisense",
         "streetsidesoftware.code-spell-checker",
         "streetsidesoftware.code-spell-checker-german",
         "mkxml.vscode-filesize",
         "ms-ceintl.vscode-language-pack-de",
+        "github.vscode-github-actions",
         "github.copilot",
         "github.copilot-chat",
         "wix.vscode-import-cost",
@@ -13,7 +15,9 @@
         "ms-vscode.vscode-typescript-next",
         "ms-vscode.js-debug-nightly",
         "glenn2223.live-sass",
+        "bierner.markdown-emoji",
         "bierner.markdown-mermaid",
+        "wraith13.open-in-github-desktop",
         "christian-kohler.path-intellisense",
         "bmewburn.vscode-intelephense-client",
         "ms-vscode.powershell",
@@ -26,10 +30,7 @@
         "timonwong.shellcheck",
         "wayou.vscode-todo-highlight",
         "vscode-icons-team.vscode-icons",
-        "wakatime.vscode-wakatime",
-        "bierner.markdown-emoji",
-        "wraith13.open-in-github-desktop",
-        "hossaini.bootstrap-intellisense",
-        "vue.volar"
+        "vue.volar",
+        "wakatime.vscode-wakatime"
     ]
 }
