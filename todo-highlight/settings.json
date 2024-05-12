@@ -2,55 +2,69 @@
     "todohighlight.isEnable": true,
     "todohighlight.isCaseSensitive": true,
 
-    "todohighlight.defaultStyle":
-    {
-        "color": "black"
-    },
-
     "todohighlight.keywords":
     [
         {
-            "text": "Caution:",
+            "text": "BUG:",
             "color": "red",
             "backgroundColor": "mistyrose",
             "isWholeLine": true
         },
         {
-            "text": "Error:",
+            "text": "CAUTION:",
             "color": "red",
             "backgroundColor": "mistyrose",
             "isWholeLine": true
         },
         {
-            "text": "Information:",
+            "text": "ERROR:",
+            "color": "red",
+            "backgroundColor": "mistyrose",
+            "isWholeLine": true
+        },
+        {
+            "text": "BUGFIX:",
             "color": "tomato",
             "backgroundColor": "lemonchiffon",
             "isWholeLine": true
         },
         {
-            "text": "Note:",
+            "text": "INFORMATION:",
             "color": "tomato",
             "backgroundColor": "lemonchiffon",
             "isWholeLine": true
         },
         {
-            "text": "Comment:",
+            "text": "NOTE:",
+            "color": "tomato",
+            "backgroundColor": "lemonchiffon",
+            "isWholeLine": true
+        },
+        {
+            "text": "COMMENT:",
             "color": "darkblue",
             "backgroundColor": "paleturquoise",
             "isWholeLine": true
         },
         {
-            "text": "Done:",
+            "text": "DONE:",
             "color": "darkgreen",
             "backgroundColor": "palegreen",
             "isWholeLine": true
         },
         {
-            "text": "Finished:",
+            "text": "FINISH:",
             "color": "darkgreen",
             "backgroundColor": "palegreen",
             "isWholeLine": true
         }
+    ],
+
+    "todohighlight.exclude":
+    [
+        "**/.vscode/**",
+        "**/*.md",
+        "**/*.json"
     ],
 
     "todohighlight.include":
@@ -75,12 +89,6 @@
         "**/*.scss",
         "**/*.sh",
         "**/*.ts"
-    ],
-
-    "todohighlight.exclude":
-    [
-        "**/.vscode/**",
-        "**/*.md"
     ],
 
     "todohighlight.maxFilesForSearch": 5120,
