@@ -1,0 +1,10 @@
+{
+
+  "gitlabPipelineMonitor": {
+    "gitlab.domain.com": {
+      "token": "my-internal-token",
+      "apiUrl": "https://gitlab.domain.com/api/v4"
+    }
+  }
+
+}

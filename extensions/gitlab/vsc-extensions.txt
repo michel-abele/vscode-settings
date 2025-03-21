@@ -1,0 +1,5 @@
+eamodio.gitlens
+donjayamanne.githistory
+mhutchie.git-graph
+codezombiech.gitignore
+gitlab.gitlab-workflow

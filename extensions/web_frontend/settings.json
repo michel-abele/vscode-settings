@@ -1,0 +1,19 @@
+{
+
+  // CSS
+  "css.enabledLanguages": ["html"],
+  
+  // Live Sass Compiler
+  "liveSassCompile.settings.formats": {
+    "format": "compressed",
+    "savePath": "/path/",
+    "generateMap": false
+  },
+  "liveSassCompile.settings.excludeList": ["/.vscode/**"],
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.showOutputWindowOn": "Warning",
+  "liveSassCompile.settings.watchOnLaunch": true,
+  "liveSassCompile.settings.compileOnWatch": true,
+  "liveSassCompile.settings.rootIsWorkspace": true
+
+}

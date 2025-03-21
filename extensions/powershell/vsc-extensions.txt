@@ -1,0 +1,4 @@
+ms-vscode.powershell
+ironmansoftware.powershell-universal
+ironmansoftware.powershellprotools
+tobysmith568.run-in-powershell

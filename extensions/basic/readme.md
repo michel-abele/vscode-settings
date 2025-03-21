@@ -1,9 +1,11 @@
 # Basic
 
+Extensions and their settings that are generally required.
+
 ## Fonts
 
-- **FiraCode Nerd Font** can be downloaded [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraCode.zip).
-- **FiraMono Nerd Font** can be downloaded [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraMono.zip).
+- **FiraCode Nerd Font** can be downloaded [here](https://github.com/ryanoasis/nerd-fonts/releases).
+- **FiraMono Nerd Font** can be downloaded [here](https://github.com/ryanoasis/nerd-fonts/releases).
 
 You can find more fonts that are optimized for programming or for terminals at [nerdfonts.com](https://www.nerdfonts.com/)
 
