@@ -1,0 +1,148 @@
+{
+
+  // Automatic saving after input
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 0,
+
+  // Font settings
+  "editor.fontFamily": "'FiraCode Nerd Font', monospace",
+  "editor.fontSize": 17,
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+
+  // Editor appearance
+  "workbench.colorTheme": "Electron Highlighter",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.linkedEditing": true,
+  "editor.minimap.scale": 2,
+
+  // Code Spell Checker
+  "cSpell.language": "en",
+  "cSpell.spellCheckOnlyWorkspaceFiles": true,
+    "cSpell.allowCompoundWords": true,
+    "cSpell.diagnosticLevel": "Information",
+    "cSpell.ignorePaths": [
+        "package-lock.json",
+        "node_modules",
+        "vscode-extension",
+        ".git/objects",
+        ".vscode",
+        ".vscode-insiders",
+        "settings.json",
+        "vsc-extensions.txt"
+    ],
+
+  // Error Lens
+  "errorLens.enabledDiagnosticLevels": [
+    "error",
+    "warning"
+  ],
+
+  // Todo Tree
+  "todo-tree.regex.regexCaseSensitive":true,
+    "todo-tree.general.tags": [
+      "BUG",
+      "FIXME",
+      "TODO",
+      "INFO",
+      "[ ]",
+      "[x]"
+    ],
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "icon": "light-bulb",
+      "iconColour": "#EAF622",
+      "gutterIcon": true,
+      "foreground": "#EAF622",
+      "background": "#171C26",
+      "type": "whole-line"
+    },
+    "BUG": {
+      "icon": "bug",
+      "iconColour": "#ff2d00",
+      "gutterIcon": true,
+      "foreground": "#ff2d00",
+      "background": "#171C26",
+      "type": "whole-line"
+    },
+    "FIXME": {
+      "icon": "flame",
+      "iconColour": "#ff2d00",
+      "gutterIcon": true,
+      "foreground": "#ff2d00",
+      "background": "#171C26",
+      "type": "whole-line"
+    },
+    "INFO": {
+      "icon": "bookmark",
+      "iconColour": "#00ffff",
+      "gutterIcon": true,
+      "foreground": "#00ffff",
+      "background": "#171C26",
+      "type": "whole-line",
+      "hideFromTree": true
+    },
+    "[ ]": {
+      "icon": "issue-draft"
+    },
+    "[x]": {
+      "icon": "issue-closed"
+    }
+  },
+
+  // Colorful Comments (Refreshed)
+  "colorful-comments-refreshed.multilineComments": true,
+  "colorful-comments-refreshed.highlightPlainText": true,
+  "colorful-comments-refreshed.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#00FFFF",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "^",
+      "color": "#EAF622",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#28FF00",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "&",
+      "color": "#FF06A0",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "~",
+      "color": "#BE00FF",
+      "strikethrough": true,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ]
+
+}

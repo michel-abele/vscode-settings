@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
+###############################################################################
+# General settings
+###############################################################################
+
+# Defines the default behaviour for the automatic normalization of line ends
 * text=auto
+
+# Fix syntax highlighting on GitHub to allow comments
+.vscode/*.json linguist-language=JSON-with-Comments
+
+
+###############################################################################
+# Project settings
+###############################################################################
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.gitattributes text
+.gitignore      text
+
+# Apply override to all JSON files in the directory
+*.json linguist-language=JSON-with-Comments
+.vscode/*.json linguist-detectable
+*.json linguist-detectable
