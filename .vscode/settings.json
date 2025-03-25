@@ -1,28 +1,28 @@
 {
 
-    // Automatic saving after input
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 0,
-  
-    // Font settings
-    "editor.fontFamily": "'FiraCode Nerd Font', monospace",
-    "editor.fontSize": 17,
-    "editor.fontLigatures": true,
-    "editor.tabSize": 2,
-  
-    // Editor appearance
-    "workbench.colorTheme": "Electron Highlighter",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.linkedEditing": true,
-    "editor.minimap.scale": 2,
-  
-    // Code Spell Checker
-    "cSpell.language": "en",
-  
-    // Error Lens
-    "errorLens.enabledDiagnosticLevels": [
-      "error",
-      "warning"
-    ]
-  
-  }
+  // Automatic saving after input
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 0,
+
+  // Font settings
+  "editor.fontFamily": "'FiraCode Nerd Font', monospace",
+  "editor.fontSize": 17,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+
+  // Editor appearance
+  "workbench.colorTheme": "Electron Highlighter",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.linkedEditing": true,
+  "editor.minimap.scale": 2,
+
+  // Code Spell Checker
+  "cSpell.language": "en",
+
+  // Error Lens
+  "errorLens.enabledDiagnosticLevels": [
+    "error",
+    "warning"
+  ]
+
+}

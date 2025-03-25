@@ -2,7 +2,7 @@
 
   // CSS
   "css.enabledLanguages": ["html"],
-  
+
   // Live Sass Compiler
   "liveSassCompile.settings.formats": {
     "format": "compressed",
